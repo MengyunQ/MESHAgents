@@ -1,4 +1,4 @@
-# MESHAgents: Multi-Agent Reasoning for Cardiovascular Imaging Phenotype Analysis
+# Multi-Agent Reasoning for Cardiovascular Imaging Phenotype Analysis
 **Official implementation of the MICCAI 2025 paper**  
 >  Zhang W.\*, Qiao M.\*, Zang C., Niederer S., Matthews P., Bai W., Kainz B.  
 > \* Equal contribution
