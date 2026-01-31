@@ -1,0 +1,17 @@
+name: meshagents
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scipy
+  - statsmodels
+  - scikit-learn
+  - seaborn
+  - matplotlib
+  - python-dotenv
+  - pip
+  - pip:
+    - openai>=1.0.0
